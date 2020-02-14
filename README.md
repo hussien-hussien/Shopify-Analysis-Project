@@ -5,4 +5,4 @@ The idea behind this project is to scrape the top 1000 shopify stores (by traffi
 * Pandas and SQLlite to transform and store the data
 * Pandas, jupyter, ipywidgets, plotly, bqplot to build the user facing dashboard.
 
-This is a very ugly work in progress!
+This is a very ugly work in progress at the moment!
